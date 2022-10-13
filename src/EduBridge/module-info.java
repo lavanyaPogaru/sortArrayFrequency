@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author MAREL
- *
- */
-module MyTestCode {
-}
